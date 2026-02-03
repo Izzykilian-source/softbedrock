@@ -4,7 +4,7 @@ import { Toaster } from 'react-hot-toast';
 import toast from 'react-hot-toast';
 
 // --- LAYOUTS ---
-import MainLayout from './layouts/Mainlayout';
+import MainLayout from './layouts/MainLayout';
 
 // --- PAGES ---
 import Login from './pages/Login';
