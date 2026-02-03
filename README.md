@@ -1,6 +1,6 @@
 # Soft Bedrock - LMS Admin Dashboard
 
-![Dashboard Preview](public/dashboard-preview.png)
+
 A high-fidelity, production-ready Admin Dashboard designed for Learning Management Systems (LMS). Built to simulate a real-world application environment with advanced data visualization, interactive state management, and professional UX patterns.
 
 
